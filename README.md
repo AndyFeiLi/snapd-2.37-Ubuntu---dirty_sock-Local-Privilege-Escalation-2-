@@ -8,3 +8,6 @@ https://gtfobins.github.io/gtfobins/snap/
 sudo snap install pwn.snap --dangerous --devmode
 ```
 
+You can now `su` to the following account and use sudo:
+username: dirty_sock
+password: dirty_sock
